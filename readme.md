@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**CAPYBARA SUPREMACY** : MI Proyecto(nombre)
+**CAPYBARA SUPREMACY** 
 
-**Web: toferlop.github.io**   (url github.io)
+**Web: toferlop.github.io**
 
-**Autor:Tomás Fernández López**  (Nombre apellidos)
+**Autor:Tomás Fernández López**
 
 **Resumen: Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostra como un capybara puede llegar a la supremacía, mostrandose un teaser en el que se ve como llegar aser elemento de adoración** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
