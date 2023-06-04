@@ -10,34 +10,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **CAPYBARA SUPREMACY** 
 
-**Web: toferlop.github.io**
+**Web:** toferlop.github.io
 
-**Autor:Tomás Fernández López**
+**Autor:** Tomás Fernández López
 
-**Resumen: Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostra como un capybara puede llegar a la supremacía, mostrandose un teaser en el que se ve como llegar aser elemento de adoración** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen:** Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostra como un capybara puede llegar a la supremacía, mostrandose un teaser en el que se ve como llegar aser elemento de adoración
 
-**Estilo/género: Es un juego con un teaser narrativo y un estilo basado en antiguas civilizaciones**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Es un juego con un teaser narrativo y un estilo basado en antiguas civilizaciones
 
-**Logotipo Si nos fijamos** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución: 800x600px** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en: Google chrome, Microsoft Edge y Safari**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google chrome, Microsoft Edge y Safari   
 
 **12,2MB** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**02/06/2023** : 14/05/2020
+**Lanzamiento** : 02/06/2023
 
-**Github: toferlop.github.io
-** (donde se tiene presencia relacionada):
+**Github:** toferlop.github.io
+**Instagram** @toferlop_
 
-- Github:
-- Twitter
-- Instagram
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -79,15 +76,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
+**Motivación de la propuesta** Este proyecto es interesante, especialmente porque está basado en un meme en redes sociales, medios consumidos por la cultura generalmente joven. Es por ello, que atendiendo a la referencia de la que parte, estamos seguros que tendrá un cierto impacto a quien lo entienda
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado especialmente al grupo de jovenes entres 15 y 25 años, debido a que es el públicoque suele consumir el contenido del que parte la idea
 
 
 
@@ -106,12 +101,16 @@ Este  proyecto es interesante porque ...
 
 
 ### Etapa 3: Problemas identificados
+Hemos detectado un pequeño problema de programación, y algunos otros relacionados por falta de tiempo que no tienen porque afectar a la experiencia pero si que la mejorarían:
+- Programación: Hemos identificado una pareja de cartaas en el nivel 3, que tienden a quedarse levantadas
+- Elementos que han faltado por falta de tiempo: pantalla con los distintos niveles, temporizador y botón de random. Por otra parte, si estas en la pantalla de juego y te metes al audio, para volver al juego debes volver al menú y pulsar de nuevo el botón de "jugar", para volver a la pantalla en la que estabas.
 
-(que consideras que no  funciona correctamente y por qué )
 
 
 
 # 4. Conclusiones 
+
+Como valoración y a pesar de esos pequeños errores por falta de tiempo/programación, creemos que ha sido un buen trabajo así como un buen proceso de desarrollo. D e cara al futuro pensamos que sería buena idea hacer los siguientes cambios.
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
