@@ -38,8 +38,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+![16  SUPREMACÍA](https://github.com/toferlop/toferlop.github.io/assets/134589030/397601c7-f77f-45df-916e-aed417a90030)
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
