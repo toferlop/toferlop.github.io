@@ -160,7 +160,7 @@ cc Nintendo Soundtracks https://youtu.be/bX5FRFm_MRA
 - Photoshop
 - Audacity
 - Procreate
-[171994153-c30c535a-2689-4034-9cd3-bb0454b291ca](https://github.com/toferlop/toferlop.github.io/assets/134589030/43850d99-f1b5-4fc6-be37-e538dd8ab00e)
+
 
 ![171994153-c30c535a-2689-4034-9cd3-bb0454b291ca](https://github.com/toferlop/toferlop.github.io/assets/134589030/42cb3513-c7d2-4322-aca7-85ebb0e6d353)
 
