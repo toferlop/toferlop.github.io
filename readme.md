@@ -16,22 +16,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen: Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostra como un capybara puede llegar a la supremacía, mostrandose un teaser en el que se ve como llegar aser elemento de adoración** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género: Es un juego con un teaser narrativo y 
-Atendiendo a la temática, hemos hecho una selección de estéticas de antiguas civilizaciónes. Tanto es así que encontramos distintos tipos como,lasvasijas de la antigua grecia, los patrones de las telas del perú/machupichu, los aztecas o el Antiguo Egipto. Se trata de un juego con un teaser narrativo y una interacción instantánea**  Novela / juego / portfolio / documental... etc.
+**Estilo/género: Es un juego con un teaser narrativo y un estilo basado en antiguas civilizaciones**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo Si nos fijamos** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución: 800x600px** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en: Google chrome y Safari**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en: Google chrome, Microsoft Edge y Safari**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
 **12,2MB** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**02/06/2023** : 14/05/2020
 
 **Github: toferlop.github.io
 ** (donde se tiene presencia relacionada):
@@ -53,7 +52,7 @@ Atendiendo a la temática, hemos hecho una selección de estéticas de antiguas 
 
 
 
-### 2.2. Esquema de navegación 
+### 2.2. Esquema de navegación:
 
 
 
