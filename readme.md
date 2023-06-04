@@ -18,10 +18,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:** Juego Narrativo y estilo basado en antiguas civilizaciones
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : El logo se compone por un capibara creado por una "c" en el lomo y una "s" en la parte delantera y la cabeza. "CS" hace referencia a Capybara Supremacy"
 ![LOGO CAPYBARA SUPREMACY](https://github.com/toferlop/toferlop.github.io/assets/134589030/cb9dab21-1a35-45ee-b123-37e90219c8c6)
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px 
 
