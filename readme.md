@@ -14,11 +14,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:** Tomás Fernández López
 
-**Resumen:** Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostra como un capybara puede llegar a la supremacía, mostrandose un teaser en el que se ve como llegar aser elemento de adoración
+**Resumen:** Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostrar como un capybara puede llegar a la supremacía. Para ello habrá que superar distintos niveles en lo que hay qu eencontrar parejas de cartas.
 
-**Estilo/género:** Es un juego con un teaser narrativo y un estilo basado en antiguas civilizaciones
+**Estilo/género:** Juego Narrativo y estilo basado en antiguas civilizaciones
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+![LOGO CAPYBARA SUPREMACY](https://github.com/toferlop/toferlop.github.io/assets/134589030/cb9dab21-1a35-45ee-b123-37e90219c8c6)
 
 (insertar imágenes a resolucion de 100px alto)
 
