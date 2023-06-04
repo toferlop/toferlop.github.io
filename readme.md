@@ -78,13 +78,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 
-**Motivación de la propuesta** Este proyecto es interesante, especialmente porque está basado en un meme en redes sociales, medios consumidos por la cultura generalmente joven. Es por ello, que atendiendo a la referencia de la que parte, estamos seguros que tendrá un cierto impacto a quien lo entienda
+**Motivación de la propuesta** Al principio me costó bastante elegiruna temática, no obstante, despues d euna lluvia de ideas, quería algo relacionado con el poder/dinero. Es por eso, que escogí un meme que se ajustaba bastante a estos detalles, y que es bastante reconocible entre el público joven, lo que le dota de gran interés.
 
 
 
 **Publico / audiencia**
 
-- Orientado especialmente al grupo de jovenes entres 15 y 25 años, debido a que es el públicoque suele consumir el contenido del que parte la idea
+- Orientado especialmente al grupo de jovenes entre 15 y 25 años, debido a que es el público que suele consumir el contenido del que parte la idea.
 
 
 
@@ -94,11 +94,26 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. El juego tiene una idea clara, llegar a la supremacía. En por ello que en primer lugar hicimos un teaser que realizar una pequeña narración visual en la que se viera como el capibara llagaba a la supremacía. Luego de eso realizamos diferentes pantallas como el menú 
+
+- Video: El video introducido en el juego, más específicamente en los créditos, es el mismo video del que meme en el que está referenciado.
+
+-Sonido: Aunque queríamos porner más y no ha dado tiempo, tenemos 3 sonidos diferentes:
++ Sonido ambiente: Zelda
++ Sonido acierto
++ sonido fallo
+
+- Instrucciones y ayuda al usuario: La mecánica del juego es bastante sencilla e intuitiva. Desde el menú puedes ira Jugar, los créditos y la galería, así como los ajustes de audio. Ademas en cada una de estas pantallas hay botones para volver al menú.
+
+- Menús y elementos de navegación: Hay varios botones y como decimos son muy intuitivos:
++ Boton JUGAR: Te lleva al juego
++ Botón GALERÍA: Lleva a la galería
++ Botón CRÉDITOS: Lleva a los créditos
++ Boton tuercaTuerca: Ajustes de audio
++ Botóm SONIDO ON: reproduce la música
++ Botón Sound OFF: detiene la música
++ Mandalas: Son imagenes insertadas en timelines  
+
 
 
 
@@ -135,13 +150,16 @@ Como valoración y a pesar de esos pequeños errores por falta de tiempo/program
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
-* Tipografía
+cc Nintendo Soundtracks https://youtu.be/bX5FRFm_MRA 
+* Imágenes: Tomás Fernández López
+* Tipografía: Arial Black
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
+- Audacity
+- Procreate
 
 
 
@@ -149,4 +167,4 @@ Como valoración y a pesar de esos pequeños errores por falta de tiempo/program
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Junio 2023
