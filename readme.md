@@ -27,14 +27,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:** Google chrome, Microsoft Edge y Safari   
 
-**12,2MB** 14MB 
+**12,2MB**
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Lanzamiento** : 02/06/2023
+**Fecha:** : 02/06/2023
 
-**Github:** toferlop.github.io
-**Instagram** @toferlop_
+**Medios** 
+- GitHub: https://github.com/toferlop/toferlop.github.io 
+
 
 
 
