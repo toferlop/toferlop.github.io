@@ -104,15 +104,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 Hemos detectado un pequeño problema de programación, y algunos otros relacionados por falta de tiempo que no tienen porque afectar a la experiencia pero si que la mejorarían:
 - Programación: Hemos identificado una pareja de cartaas en el nivel 3, que tienden a quedarse levantadas
 - Elementos que han faltado por falta de tiempo: pantalla con los distintos niveles, temporizador y botón de random. Por otra parte, si estas en la pantalla de juego y te metes al audio, para volver al juego debes volver al menú y pulsar de nuevo el botón de "jugar", para volver a la pantalla en la que estabas.
-
+PD: Aunque no es un error en sí, vemos como la tipografía cambia según esté en ordenadores o moviles
 
 
 
 # 4. Conclusiones 
 
-Como valoración y a pesar de esos pequeños errores por falta de tiempo/programación, creemos que ha sido un buen trabajo así como un buen proceso de desarrollo. D e cara al futuro pensamos que sería buena idea hacer los siguientes cambios.
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Como valoración y a pesar de esos pequeños errores por falta de tiempo/programación, creemos que ha sido un buen trabajo así como un buen proceso de desarrollo. De cara al futuro pensamos que sería buena idea hacer los siguientes cambios:
+- Dar la posibilidad da diferentes canciones para tesaer, niveles, menú, créditos y galería.
+- Incluir nuevos niveles
+- Incorporar nuevos sonidos en la interacción con botones.
+- Crear una tipografía propia del juego
+- Insertar otro tipo de minijuego que no sean las cartas
+- Crear un modo historia
 
 
 
