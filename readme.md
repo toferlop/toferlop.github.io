@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **CAPYBARA SUPREMACY** 
 
-**Web:** toferlop.github.io
+**Web:** https://toferlop.github.io/
 
 **Autor:** Tomás Fernández López
 
