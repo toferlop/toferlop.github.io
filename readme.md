@@ -55,7 +55,6 @@ PANTALLAS DEL JUEGO
 ![Picsart_23-06-08_12-01-20-871](https://github.com/toferlop/toferlop.github.io/assets/134589030/90103f3a-692d-4d34-9994-a306bcf7c075)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -83,14 +82,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
+**Investigación de campo** 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - 
 
 
 
-**Motivación de la propuesta** Al principio me costó bastante elegir una temática, no obstante, después de una lluvia de ideas, quería algo relacionado con el poder/dinero. Es por eso, que escogí un meme que se ajustaba bastante a estos detalles, y que es bastante reconocible entre el público joven, lo que le dota de gran interés.
+**Motivación de la propuesta** Al principio me costó bastante elegir una temática, no obstante, después de una lluvia de ideas, quería algo relacionado con el poder/dinero. Es por eso, que escogí un meme que se ajustaba bastante a estos detalles, y que es bastante reconocible entre el público joven, lo que le dota de gran interés. En base a este realicé un juego de cartas.
 
 
 
@@ -104,9 +102,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. El juego tiene una idea clara, llegar a la supremacía. En por ello que en primer lugar hicimos un teaser que realizar una pequeña narración visual en la que se viera como el capibara llagaba a la supremacía. Luego de eso realizamos diferentes pantallas como el menú, los créditos o la galería. En cuando a las pantallas del juego en si, se compone de momento por 4 niveles los cuales tienes 4, 6, 8 y 12 cartas respectivamentes. Una vez superados nos llavan a una carta final que, al pulsarla aparece la carta ganadora. 
+- Juego. El juego tiene una idea clara, llegar a la supremacía. En por ello que en primer lugar hicimos un teaser con una pequeña narración visual en la que se viera como el capibara llagaba a la supremacía. Luego de eso realizamos diferentes pantallas como el menú, los créditos o la galería. En cuando a las pantallas del juego en si, se compone de momento por 4 niveles los cuales tienen 4, 6, 8 y 12 cartas respectivamente. Una vez superados nos llevan a una carta final que, al pulsarla, aparece la carta ganadora. 
 
 - Video: El video introducido en el juego, más específicamente en los créditos, es el mismo video del que meme en el que está referenciado.
 
