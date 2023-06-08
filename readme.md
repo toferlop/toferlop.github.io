@@ -110,9 +110,9 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 - Video: El video introducido en el juego, más específicamente en los créditos, es el mismo video del que meme en el que está referenciado.
 
 - Sonido: Aunque queríamos porner más y no ha dado tiempo, tenemos 3 sonidos diferentes:
- + Sonido ambiente: Zelda
- + Sonido acierto
- + sonido fallo
+ - Sonido ambiente: Zelda
+ - Sonido acierto
+ - sonido fallo
 
 - Instrucciones y ayuda al usuario: La mecánica del juego es bastante sencilla e intuitiva. Desde el menú puedes ira Jugar, los créditos y la galería, así como los ajustes de audio. Ademas en cada una de estas pantallas hay botones para volver al menú.
 
