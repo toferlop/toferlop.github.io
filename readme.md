@@ -120,13 +120,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 - Instrucciones y ayuda al usuario: La mecánica del juego es bastante sencilla e intuitiva. Desde el menú puedes ira Jugar, los créditos y la galería, así como los ajustes de audio. Ademas en cada una de estas pantallas hay botones para volver al menú.
 
 - Menús y elementos de navegación: Hay varios botones y como decimos son muy intuitivos:
-+ Boton JUGAR: Te lleva al juego
-+ Botón GALERÍA: Lleva a la galería
-+ Botón CRÉDITOS: Lleva a los créditos
-+ Boton tuercaTuerca: Ajustes de audio
-+ Botóm SONIDO ON: reproduce la música
-+ Botón Sound OFF: detiene la música
-+ Mandalas: Son imagenes insertadas en timelines  
+
++Boton JUGAR: Te lleva al juego
+
++Botón GALERÍA: Lleva a la galería
+
++Botón CRÉDITOS: Lleva a los créditos
+
++Boton tuercaTuerca: Ajustes de audio
+
++Botóm SONIDO ON: reproduce la música
+
++Botón Sound OFF: detiene la música
+
++Mandalas: Son imagenes insertadas en timelines  
 
 
 
