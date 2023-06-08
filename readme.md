@@ -45,6 +45,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+![Picsart_23-06-08_11-58-34-731](https://github.com/toferlop/toferlop.github.io/assets/134589030/9ba3214c-b0bd-4c97-97ee-908fa615a747)
+![Picsart_23-06-08_11-59-50-934](https://github.com/toferlop/toferlop.github.io/assets/134589030/3aa91f61-d2d6-4bfd-bb11-ac99a1705f03)
+![Picsart_23-06-08_12-01-20-871](https://github.com/toferlop/toferlop.github.io/assets/134589030/90103f3a-692d-4d34-9994-a306bcf7c075)
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
