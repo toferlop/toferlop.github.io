@@ -63,9 +63,11 @@ PANTALLAS DEL JUEGO
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+El teasser puede llevar al menú desde cualquiera de las cuatro escenas
 
 ![teasser](https://github.com/toferlop/toferlop.github.io/assets/134589030/11e92e95-817a-4af3-a410-1a118fc73bf2)
+
+El menú nos puede llevar a los ajustes de sonido, los créditos, la galería y el propio juego. y desde dichas pantallas podemos volver al menú. En el caso del juego en si, también nos deja acceder a los ajustes de sonido, al igual que desde el menú.
 
 ![menu y variantes](https://github.com/toferlop/toferlop.github.io/assets/134589030/36eb55aa-7fea-4d0c-8c76-e6d3fe2486b6)
 
