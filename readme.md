@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:** Tomás Fernández López
 
-**Resumen:** Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostrar como un capybara puede llegar a la supremacía. Para ello habrá que superar distintos niveles en lo que hay qu eencontrar parejas de cartas.
+**Resumen:** Con una idea surgida de un meme que se hizo viral, este proyecto trata de mostrar como un capibara puede llegar a la supremacía. Para ello habrá que superar distintos niveles en los que hay que encontrar parejas de cartas.
 
 **Estilo/género:** Juego Narrativo y estilo basado en antiguas civilizaciones
 
@@ -78,7 +78,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 
-**Motivación de la propuesta** Al principio me costó bastante elegiruna temática, no obstante, despues d euna lluvia de ideas, quería algo relacionado con el poder/dinero. Es por eso, que escogí un meme que se ajustaba bastante a estos detalles, y que es bastante reconocible entre el público joven, lo que le dota de gran interés.
+**Motivación de la propuesta** Al principio me costó bastante elegir una temática, no obstante, después de una lluvia de ideas, quería algo relacionado con el poder/dinero. Es por eso, que escogí un meme que se ajustaba bastante a estos detalles, y que es bastante reconocible entre el público joven, lo que le dota de gran interés.
 
 
 
@@ -94,7 +94,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. El juego tiene una idea clara, llegar a la supremacía. En por ello que en primer lugar hicimos un teaser que realizar una pequeña narración visual en la que se viera como el capibara llagaba a la supremacía. Luego de eso realizamos diferentes pantallas como el menú 
+- Juego. El juego tiene una idea clara, llegar a la supremacía. En por ello que en primer lugar hicimos un teaser que realizar una pequeña narración visual en la que se viera como el capibara llagaba a la supremacía. Luego de eso realizamos diferentes pantallas como el menú, los créditos o la galería. En cuando a las pantallas del juego en si, se compone de momento por 4 niveles los cuales tienes 4, 6, 8 y 12 cartas respectivamentes. Una vez superados nos llavan a una carta final que, al pulsarla aparece la carta ganadora. 
 
 - Video: El video introducido en el juego, más específicamente en los créditos, es el mismo video del que meme en el que está referenciado.
 
@@ -119,8 +119,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 3: Problemas identificados
 Hemos detectado un pequeño problema de programación, y algunos otros relacionados por falta de tiempo que no tienen porque afectar a la experiencia pero si que la mejorarían:
-- Programación: Hemos identificado una pareja de cartaas en el nivel 3, que tienden a quedarse levantadas
-- Elementos que han faltado por falta de tiempo: pantalla con los distintos niveles, temporizador y botón de random. Por otra parte, si estas en la pantalla de juego y te metes al audio, para volver al juego debes volver al menú y pulsar de nuevo el botón de "jugar", para volver a la pantalla en la que estabas.
++ Programación: Hemos identificado una pareja de cartaas en el nivel 3, que tienden a quedarse levantadas
++ + Elementos que han faltado por falta de tiempo: pantalla con los distintos niveles, temporizador y botón de random. Por otra parte, si estas en la pantalla de juego y te metes al audio, para volver al juego debes volver al menú y pulsar de nuevo el botón de "jugar", para volver a la pantalla en la que estabas.
 PD: Aunque no es un error en sí, vemos como la tipografía cambia según esté en ordenadores o moviles
 
 
