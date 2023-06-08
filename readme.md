@@ -65,7 +65,9 @@ PANTALLAS DEL JUEGO
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
+![teasser](https://github.com/toferlop/toferlop.github.io/assets/134589030/11e92e95-817a-4af3-a410-1a118fc73bf2)
 
+![menu y variantes](https://github.com/toferlop/toferlop.github.io/assets/134589030/36eb55aa-7fea-4d0c-8c76-e6d3fe2486b6)
 
 
 
