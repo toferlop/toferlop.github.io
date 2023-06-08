@@ -84,7 +84,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Juegos Simón https://www.memo-juegos.com/juegos-de-memoria-online juego de parejas de cartas
+- Studio Bravanda https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/
 
 
 
