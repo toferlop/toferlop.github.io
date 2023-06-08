@@ -109,7 +109,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 - Video: El video introducido en el juego, más específicamente en los créditos, es el mismo video del que meme en el que está referenciado.
 
--Sonido: Aunque queríamos porner más y no ha dado tiempo, tenemos 3 sonidos diferentes:
+- Sonido: Aunque queríamos porner más y no ha dado tiempo, tenemos 3 sonidos diferentes:
 + Sonido ambiente: Zelda
 + Sonido acierto
 + sonido fallo
